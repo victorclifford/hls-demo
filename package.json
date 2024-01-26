@@ -5,7 +5,7 @@
   "homepage": "https://lab.videosdk.live/react-hls-demo/",
   "dependencies": {
     "@headlessui/react": "^1.7.17",
-    "@heroicons/react": "^1.0.6",
+    "@heroicons/react": "^2.1.1",
     "@popperjs/core": "^2.11.8",
     "@videosdk.live/react-sdk": "^0.1.82",
     "@windmill/react-ui": "^0.6.0",
